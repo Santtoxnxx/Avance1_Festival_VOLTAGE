@@ -144,11 +144,8 @@ SELECT nombre, cupo_total, cupo_disponible FROM tipos_boleta;
    → Subconsultas correlacionadas + GROUP BY + HAVING + LIMIT
 
 ================================================================
- CONTACTO DEL GRUPO
+ REPOSITORIO DEL GRUPO
 ================================================================
-
-Universidad El Bosque · Ingeniería de Sistemas · 2026-1
-Bases de Datos 2 — Proyecto Integrador Avance 1
 
 Repositorio GitHub: [URL del repositorio del grupo]
 
