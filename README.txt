@@ -147,6 +147,6 @@ SELECT nombre, cupo_total, cupo_disponible FROM tipos_boleta;
  REPOSITORIO DEL GRUPO
 ================================================================
 
-Repositorio GitHub: [URL del repositorio del grupo]
+Repositorio GitHub: https://github.com/Santtoxnxx/Avance1_Festival_VOLTAGE/tree/main
 
 ================================================================
